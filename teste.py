@@ -1,0 +1,1 @@
+print("eu vou dar meu cu")
